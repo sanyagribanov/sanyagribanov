@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello there
+Добро пожаловать в мою скромную обитель, любопытный пользователь GitHub'a, каким-то образом нашедший мой профиль
+![image](https://pibig.info/uploads/posts/2021-04/1619154201_14-pibig_info-p-rena-ryugu-anime-krasivo-20.jpg)
 
 <!--
 **sanyagribanov/sanyagribanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
