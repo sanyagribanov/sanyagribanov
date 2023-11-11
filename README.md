@@ -26,7 +26,7 @@ class HelloWorld {
 ---
 
 ## Разговоры
-Поболтать со мной можешь в [Telegram](https://t.me/@bitardoff)
+Поболтать со мной можешь в Telegram (ник @bitardoff)
 <!--
 **sanyagribanov/sanyagribanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
