@@ -18,6 +18,10 @@ Console.WriteLine("Или какие-нибудь наработки на C# ?")
 ```
 
 Их много и большинство из них такие себе, но если сильно интересно, можешь глянуть [наработки](https://github.com/sanyagribanov/2CoursePrograms.git) времен колледжа
+---
+
+## Разговоры
+Поболтать со мной можешь в [Telegram](https://t.me/@bitardoff)
 <!--
 **sanyagribanov/sanyagribanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
